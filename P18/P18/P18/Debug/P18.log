@@ -1,0 +1,5 @@
+﻿  Main.c
+c:\c_code\hw3\hw3-1\p18\source\main.c(9): warning C4013: 'strcpy' 未定義; 假設 extern 傳回整數
+c:\c_code\hw3\hw3-1\p18\source\main.c(11): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+c:\c_code\hw3\hw3-1\p18\source\main.c(14): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  P18.vcxproj -> C:\c_code\HW3\HW3-1\P18\P18\Debug\P18.exe
